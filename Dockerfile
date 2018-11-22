@@ -6,8 +6,8 @@
 FROM node
 
 # Información de Metadata
-LABEL "cl.apgca.appNode"="GCA DESARROLLOS TECNOLOGICOS"
-LABEL maintainer="mortega@apgca.cl"
+LABEL "cl.domocity.appNode"="DOMOCITY"
+LABEL maintainer="mortega@domocity.cl"
 LABEL version="1.0"
 
 
